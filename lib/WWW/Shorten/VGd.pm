@@ -28,7 +28,7 @@ our @EXPORT = qw( makeashorterlink makealongerlink );
 use Carp;
 use HTML::Entities;
 
-=head1 Functions
+=head1 FUNCTIONS
 
 =head2 makeashorterlink
 
