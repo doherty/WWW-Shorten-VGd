@@ -2,7 +2,7 @@ NAME
     WWW::Shorten::VGd - shorten (or lengthen) URLs with http://v.gd
 
 VERSION
-    version 0.001
+    version 0.002
 
 SYNOPSIS
         use WWW::Shorten::VGd;
@@ -19,7 +19,7 @@ DESCRIPTION
     redirecting you. This can be turned off by setting a cookie at
     <http://v.gd/previews.php>.
 
-Functions
+FUNCTIONS
   makeashorterlink
     The function "makeashorterlink" will call the v.gd web site passing it
     your long URL and will return the shortened link.
