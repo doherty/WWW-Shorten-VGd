@@ -1,9 +1,9 @@
+package WWW::Shorten::VGd;
+# ABSTRACT: shorten (or lengthen) URLs with http://v.gd
 use strict;
 use warnings;
 use 5.006;
-
-package WWW::Shorten::VGd;
-# ABSTRACT: shorten (or lengthen) URLs with http://v.gd
+# VERSION
 
 =head1 SYNOPSIS
 
