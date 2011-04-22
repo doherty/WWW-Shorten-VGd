@@ -1,6 +1,7 @@
 Revision history for Perl module WWW-Shorten-VGd
 
 {{$NEXT}}
+    * Packaging updates
 
 0.002     2011-01-21
     * Tests are slightly more robust
